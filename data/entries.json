@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-29-white-house-ai-safety-accord",
+    "date": "2026-09-29",
+    "category": "policy",
+    "title": "트럼프 대통령과 AI 6개사 CEO, 프런티어 모델 안전 자율 협약 서명",
+    "summary": "트럼프 대통령과 Anthropic·OpenAI·구글·메타·xAI·엔비디아 CEO가 프런티어 모델에 대한 내부 통제, 외부 감사, 이사회 차원 감독을 담은 자율 협약에 서명했습니다. 법적 강제력은 없는 자율 합의이며, 추후 법제화 가능성은 열어뒀습니다.",
+    "sources": [{ "name": "MediaNama", "url": "https://www.medianama.com/2026/09/223-trump-google-anthropic-meta-openai-ai-safety-accord/" }],
+    "terms": ["프런티어 모델"]
+  },
+  {
+    "id": "2026-09-30-google-gemini-4-argon",
+    "date": "2026-09-30",
+    "category": "model",
+    "title": "구글, 최신 모델 'Gemini 4 Argon'을 사이버보안 전문가에게만 우선 공개",
+    "summary": "구글이 자사 최고 성능 모델이라고 밝힌 Gemini 4 Argon을 일반 공개 대신, 보안 프로그램 'Fairwind'에 참여하는 650여 사이버보안 파트너에게만 먼저 제공하기로 했습니다. 소프트웨어 취약점을 스스로 찾아 검증·수정하는 방어 전용 능력에 특화됐으며, 악용을 막기 위해 공개 범위를 제한했다고 설명했습니다.",
+    "sources": [{ "name": "TechCrunch", "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/" }],
+    "terms": ["파운데이션 모델", "프런티어 모델"]
+  },
+  {
     "id": "2026-10-02-openai-devday",
     "date": "2026-10-02",
     "category": "product",
