@@ -82,7 +82,7 @@ export default function TrendFeed({
         <div className="date-group" key={date}>
           <h2>{formatDateKo(date)}</h2>
           {items.map((entry) => (
-            <article className="entry-card" key={entry.id}>
+            <article className="entry-card" id={`entry-${entry.id}`} key={entry.id}>
               <div className="entry-top">
                 <span className="badge">{CATEGORY_LABEL[entry.category]}</span>
                 {isRecent(entry.date) && <span className="badge new">NEW</span>}

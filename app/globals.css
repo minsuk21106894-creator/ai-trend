@@ -11,6 +11,13 @@
   --accent-soft: #e8ecff;
   --new: #d64545;
   --new-soft: #fde8e8;
+  --cat-model: #2a78d6;
+  --cat-product: #eb6834;
+  --cat-research: #1baf7a;
+  --cat-industry: #eda100;
+  --cat-policy: #e87ba4;
+  --chart-grid: #e1e0d9;
+  --chart-muted: #898781;
   color-scheme: light;
 }
 
@@ -28,6 +35,13 @@
     --accent-soft: #1c2440;
     --new: #ff6b6b;
     --new-soft: #3a1c1c;
+    --cat-model: #3987e5;
+    --cat-product: #d95926;
+    --cat-research: #199e70;
+    --cat-industry: #c98500;
+    --cat-policy: #d55181;
+    --chart-grid: #2c2c2a;
+    --chart-muted: #898781;
     color-scheme: dark;
   }
 }
@@ -208,6 +222,12 @@ main {
   border-radius: 14px;
   padding: 16px 18px;
   margin-bottom: 12px;
+  scroll-margin-top: 90px;
+}
+
+.entry-card:target {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 .entry-top {
@@ -414,6 +434,128 @@ main {
 
 .table-wrap {
   overflow-x: auto;
+}
+
+/* weekly digest */
+.digest {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 18px;
+  margin-bottom: 20px;
+}
+
+.digest-head h2 {
+  font-size: 15px;
+  margin: 0 0 4px;
+}
+
+.digest-insight {
+  margin: 0 0 12px;
+  font-size: 13px;
+  color: var(--ink-faint);
+}
+
+.digest-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.digest-list a {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 7px 4px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 13.5px;
+  color: var(--ink);
+  line-height: 1.5;
+}
+
+.digest-list a:hover {
+  background: var(--surface-2);
+}
+
+.digest-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-top: 6px;
+  flex: none;
+}
+
+/* trend chart */
+.chart-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 20px 14px;
+  margin-bottom: 24px;
+}
+
+.chart-card h2 {
+  font-size: 16px;
+  margin: 0 0 2px;
+}
+
+.chart-card .chart-sub {
+  margin: 0 0 14px;
+  font-size: 13px;
+  color: var(--ink-faint);
+}
+
+.chart-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 10px;
+}
+
+.chart-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.chart-legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+}
+
+.chart-svg-wrap {
+  position: relative;
+  overflow-x: auto;
+}
+
+.chart-tooltip {
+  position: absolute;
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 8px 10px;
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: 5;
+  white-space: nowrap;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.chart-bar-group {
+  cursor: pointer;
+}
+
+.chart-bar-group:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 footer.site-footer {
