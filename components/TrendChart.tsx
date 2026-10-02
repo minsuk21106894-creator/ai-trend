@@ -118,7 +118,7 @@ export default function TrendChart({ entries }: { entries: TrendEntry[] }) {
                 onMouseLeave={() => setHover((h) => (h === bucket.weekStart ? null : h))}
                 onFocus={() => setHover(bucket.weekStart)}
                 onBlur={() => setHover((h) => (h === bucket.weekStart ? null : h))}
-                onClick={() => setHover((h) => (h === bucket.weekStart ? null : bucket.weekStart))}
+                onClick={() => setHover(bucket.weekStart)}
               >
                 {segs.map((s) => (
                   <rect
