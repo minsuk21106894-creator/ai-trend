@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2026-10-02-openai-devday",
+    "date": "2026-10-02",
+    "category": "product",
+    "title": "OpenAI DevDay 2026 — 20개 이상 발표, '계속 일하는 에이전트' 공개",
+    "summary": "OpenAI가 DevDay 2026에서 ChatGPT, Codex, 모델 전반에 걸쳐 20개 이상의 업데이트를 발표했습니다. 가장 큰 변화는 한 번 답하고 끝나는 게 아니라 지속적인 책임을 맡아 일하는 에이전트를 선보였다는 점이며, ChatGPT를 사람과 에이전트가 함께 협업하는 공용 작업 공간으로 확장한다고 밝혔습니다. 주간 사용자는 12억 명(1.2B)에 달한다고 밝혔습니다.",
+    "sources": [{ "name": "OpenAI", "url": "https://openai.com/index/devday-2026-recap/" }],
+    "terms": ["에이전트"]
+  },
+  {
+    "id": "2026-09-22-claude-opus-5-5",
+    "date": "2026-09-22",
+    "category": "model",
+    "title": "Anthropic, Claude Opus 5.5 출시",
+    "summary": "Anthropic이 최신 파운데이션 모델인 Claude Opus 5.5를 출시했습니다. 복잡한 추론과 장시간 자율 작업에서 성능이 개선됐다는 평가가 나오고 있습니다.",
+    "sources": [{ "name": "Anthropic", "url": "https://www.anthropic.com/" }],
+    "terms": ["파운데이션 모델"]
+  },
+  {
+    "id": "2026-10-01-bedrock-gpt6",
+    "date": "2026-10-01",
+    "category": "industry",
+    "title": "AWS, Amazon Bedrock에 GPT-6 Sol·Luna 모델 추가",
+    "summary": "Amazon Web Services가 자사 AI 플랫폼 Bedrock을 통해 GPT-6 Sol, GPT-6 Luna 등의 모델을 이용할 수 있도록 제공을 시작했습니다. 특정 회사 모델에 묶이지 않고 여러 파운데이션 모델을 한 플랫폼에서 골라 쓸 수 있는 흐름이 강화되는 모습입니다.",
+    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
+    "terms": ["파운데이션 모델"]
+  },
+  {
+    "id": "2026-10-01-apple-homepad",
+    "date": "2026-10-01",
+    "category": "product",
+    "title": "애플, 10월 13일 Siri 중심 스마트홈 허브 'HomePad' 공개 예정",
+    "summary": "애플이 벽이나 테이블에 놓는 6인치 화면의 스마트홈 허브 'HomePad'를 10월 13일 공개할 예정입니다. Siri를 중심으로 한 스마트홈 전용 운영체제와 기기 제어 기능이 핵심입니다. 온디바이스 AI 처리 비중이 높을 것으로 예상됩니다.",
+    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
+    "terms": ["온디바이스 AI"]
+  },
+  {
+    "id": "2026-10-01-siri-expansion",
+    "date": "2026-10-01",
+    "category": "product",
+    "title": "Siri AI, iOS 27.2에서 프랑스어·일본어·한국어·포르투갈어·스페인어로 확장",
+    "summary": "애플의 Siri AI 기능이 iOS 27.2 업데이트를 통해 한국어를 포함한 5개 언어로 확장될 예정이며, 10월 안에 배포가 예상됩니다.",
+    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
+    "terms": []
+  },
+  {
+    "id": "2026-09-30-ucla-deepfake",
+    "date": "2026-09-30",
+    "category": "research",
+    "title": "UCLA, 빛 기반 분석으로 딥페이크 98% 정확도 탐지 시스템 개발",
+    "summary": "UCLA 연구진이 빛(光)을 이용해 10개 이상의 영상을 동시에 분석하고, 딥페이크 영상을 약 98% 정확도로 탐지하는 AI 시스템을 개발했다고 발표했습니다.",
+    "sources": [{ "name": "The Neuron", "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026" }],
+    "terms": ["딥페이크", "벤치마크"]
+  }
+]
