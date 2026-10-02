@@ -64,7 +64,7 @@ export default function TrendTable({
             {sorted.map((e) => (
               <tr key={e.id}>
                 <td className="date-col">{formatDateKo(e.date)}</td>
-                <td>{CATEGORY_LABEL[e.category]}</td>
+                <td className="cat-col">{CATEGORY_LABEL[e.category]}</td>
                 <td>
                   <div style={{ fontWeight: 700, marginBottom: 4 }}>
                     {renderWithTerms(e.title, e.terms, setSelectedTerm)}

@@ -397,6 +397,17 @@ main {
   font-variant-numeric: tabular-nums;
 }
 
+.trend-table td.cat-col {
+  white-space: nowrap;
+  color: var(--ink-soft);
+  font-size: 12.5px;
+}
+
+.trend-table th:nth-child(3),
+.trend-table td:nth-child(3) {
+  width: 100%;
+}
+
 .trend-table tr:last-child td {
   border-bottom: none;
 }
