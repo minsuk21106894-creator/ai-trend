@@ -9,6 +9,7 @@ export interface TrendEntry {
   id: string;
   date: string; // YYYY-MM-DD, collection date
   category: Category;
+  org?: string; // 관련 기업/기관 (예: OpenAI, Google, Anthropic)
   title: string;
   summary: string;
   sources: SourceLink[];

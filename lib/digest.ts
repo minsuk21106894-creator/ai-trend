@@ -58,6 +58,22 @@ export function topCategoryThisWeek(
   return { category: top, count: max };
 }
 
+export interface Stats {
+  total: number;
+  thisWeek: number;
+  topCategory: { category: Category; count: number } | null;
+}
+
+export function buildStats(entries: TrendEntry[]): Stats {
+  const weekly = buildWeeklySeries(entries);
+  const thisWeek = weekly.length > 0 ? weekly[weekly.length - 1].total : 0;
+  return {
+    total: entries.length,
+    thisWeek,
+    topCategory: topCategoryThisWeek(weekly),
+  };
+}
+
 export function buildDigest(entries: TrendEntry[], days = 7, limit = 6): TrendEntry[] {
   const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
   const recent = entries.filter((e) => new Date(e.date + "T00:00:00Z").getTime() >= cutoff);
