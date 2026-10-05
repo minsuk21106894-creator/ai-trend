@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-10-05-super-intelligence-force",
+    "date": "2026-10-05",
+    "category": "policy",
+    "org": "White House",
+    "title": "트럼프 대통령, AI 위험·기회 분석할 '슈퍼 인텔리전스 포스' 출범 발표",
+    "summary": "트럼프 대통령이 AI의 위험과 기회를 분석할 '슈퍼 인텔리전스 포스'를 발표했습니다. 국가정보국장 제이 클레이턴이 위원장을 맡고 FTC 위원장 등이 부위원장으로 참여하며, 120일 안에 보고서를 내야 합니다. 미 정부는 앞으로 'AI' 대신 '슈퍼 인텔리전스'라는 표현을 쓰겠다고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-05-google-bug-bounty-pause",
+    "date": "2026-10-05",
+    "category": "industry",
+    "org": "Google",
+    "title": "구글, AI 자동 제보 급증에 오픈소스 버그 바운티 내년까지 중단",
+    "summary": "구글이 오픈소스 버그 바운티 프로그램을 내년까지 중단한다고 밝혔습니다. 자동화된 제보가 크게 늘었지만 대부분 유효하지 않다는 이유입니다. AI가 만든 저품질 보안 제보가 운영 부담이 되고 있음을 보여줍니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-09-29-white-house-ai-safety-accord",
     "date": "2026-09-29",
     "category": "policy",
