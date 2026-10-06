@@ -1,5 +1,73 @@
 [
   {
+    "id": "2026-10-06-reflection-beam-open-weight",
+    "date": "2026-10-06",
+    "category": "model",
+    "org": "Reflection AI",
+    "title": "Reflection AI, 첫 프런티어급 오픈 웨이트 모델 'Beam' 공개",
+    "summary": "Reflection AI가 첫 프런티어급 오픈 웨이트 모델 Beam을 공개했습니다. 고급 추론 벤치마크에서 주요 중국 오픈 모델과 대등한 성능을 더 낮은 연산 비용으로 낸다고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+      }
+    ],
+    "terms": [
+      "오픈 웨이트",
+      "프런티어 모델",
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-10-06-openai-eu-text-watermark",
+    "date": "2026-10-06",
+    "category": "policy",
+    "org": "OpenAI",
+    "title": "OpenAI, EU AI 법 준수 위해 ChatGPT·Codex 텍스트에 보이지 않는 워터마크 적용",
+    "summary": "OpenAI가 EU 내에서 ChatGPT와 Codex가 생성한 텍스트에 보이지 않는 워터마크를 넣기로 했습니다. 모델의 단어 선택을 미묘하게 조정해 사람은 못 보지만 탐지기는 찾아낼 수 있는 패턴을 남기는 방식으로, EU AI 법을 따르기 위한 조치입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      }
+    ],
+    "terms": [
+      "워터마크"
+    ]
+  },
+  {
+    "id": "2026-10-06-openai-visual-ads-image-generation",
+    "date": "2026-10-06",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, 이미지 생성 결과 옆에 표시되는 시각형 광고 도입",
+    "summary": "OpenAI가 사용자가 ChatGPT로 이미지를 생성할 때 결과 옆에 노출되는 시각형 디스플레이 광고를 광고 상품에 추가했습니다. 이달 말부터 우선 미국에서만 게재될 예정입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-06-tiktok-ai-shopping-assistant",
+    "date": "2026-10-06",
+    "category": "product",
+    "org": "TikTok",
+    "title": "틱톡, AI 쇼핑 어시스턴트와 원클릭 결제 기능 출시",
+    "summary": "틱톡이 대화형 AI 에이전트인 쇼핑 어시스턴트를 선보였습니다. 대화 맥락과 사용자 선호를 기억하며 상품 탐색과 구매를 돕고, 앱 안에서 브랜드 상품을 바로 결제하는 기능도 함께 제공합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
     "id": "2026-10-05-super-intelligence-force",
     "date": "2026-10-05",
     "category": "policy",
@@ -36,8 +104,15 @@
     "org": "White House",
     "title": "트럼프 대통령과 AI 6개사 CEO, 프런티어 모델 안전 자율 협약 서명",
     "summary": "트럼프 대통령과 Anthropic·OpenAI·구글·메타·xAI·엔비디아 CEO가 프런티어 모델에 대한 내부 통제, 외부 감사, 이사회 차원 감독을 담은 자율 협약에 서명했습니다. 법적 강제력은 없는 자율 합의이며, 추후 법제화 가능성은 열어뒀습니다.",
-    "sources": [{ "name": "MediaNama", "url": "https://www.medianama.com/2026/09/223-trump-google-anthropic-meta-openai-ai-safety-accord/" }],
-    "terms": ["프런티어 모델"]
+    "sources": [
+      {
+        "name": "MediaNama",
+        "url": "https://www.medianama.com/2026/09/223-trump-google-anthropic-meta-openai-ai-safety-accord/"
+      }
+    ],
+    "terms": [
+      "프런티어 모델"
+    ]
   },
   {
     "id": "2026-09-30-google-gemini-4-argon",
@@ -46,8 +121,16 @@
     "org": "Google",
     "title": "구글, 최신 모델 'Gemini 4 Argon'을 사이버보안 전문가에게만 우선 공개",
     "summary": "구글이 자사 최고 성능 모델이라고 밝힌 Gemini 4 Argon을 일반 공개 대신, 보안 프로그램 'Fairwind'에 참여하는 650여 사이버보안 파트너에게만 먼저 제공하기로 했습니다. 소프트웨어 취약점을 스스로 찾아 검증·수정하는 방어 전용 능력에 특화됐으며, 악용을 막기 위해 공개 범위를 제한했다고 설명했습니다.",
-    "sources": [{ "name": "TechCrunch", "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/" }],
-    "terms": ["파운데이션 모델", "프런티어 모델"]
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+      }
+    ],
+    "terms": [
+      "파운데이션 모델",
+      "프런티어 모델"
+    ]
   },
   {
     "id": "2026-10-02-openai-devday",
@@ -56,8 +139,15 @@
     "org": "OpenAI",
     "title": "OpenAI DevDay 2026 — 20개 이상 발표, '계속 일하는 에이전트' 공개",
     "summary": "OpenAI가 DevDay 2026에서 ChatGPT, Codex, 모델 전반에 걸쳐 20개 이상의 업데이트를 발표했습니다. 가장 큰 변화는 한 번 답하고 끝나는 게 아니라 지속적인 책임을 맡아 일하는 에이전트를 선보였다는 점이며, ChatGPT를 사람과 에이전트가 함께 협업하는 공용 작업 공간으로 확장한다고 밝혔습니다. 주간 사용자는 12억 명(1.2B)에 달한다고 밝혔습니다.",
-    "sources": [{ "name": "OpenAI", "url": "https://openai.com/index/devday-2026-recap/" }],
-    "terms": ["에이전트"]
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/devday-2026-recap/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
   },
   {
     "id": "2026-09-22-claude-opus-5-5",
@@ -66,8 +156,15 @@
     "org": "Anthropic",
     "title": "Anthropic, Claude Opus 5.5 출시",
     "summary": "Anthropic이 최신 파운데이션 모델인 Claude Opus 5.5를 출시했습니다. 복잡한 추론과 장시간 자율 작업에서 성능이 개선됐다는 평가가 나오고 있습니다.",
-    "sources": [{ "name": "Anthropic", "url": "https://www.anthropic.com/" }],
-    "terms": ["파운데이션 모델"]
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/"
+      }
+    ],
+    "terms": [
+      "파운데이션 모델"
+    ]
   },
   {
     "id": "2026-10-01-bedrock-gpt6",
@@ -76,8 +173,15 @@
     "org": "AWS",
     "title": "AWS, Amazon Bedrock에 GPT-6 Sol·Luna 모델 추가",
     "summary": "Amazon Web Services가 자사 AI 플랫폼 Bedrock을 통해 GPT-6 Sol, GPT-6 Luna 등의 모델을 이용할 수 있도록 제공을 시작했습니다. 특정 회사 모델에 묶이지 않고 여러 파운데이션 모델을 한 플랫폼에서 골라 쓸 수 있는 흐름이 강화되는 모습입니다.",
-    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
-    "terms": ["파운데이션 모델"]
+    "sources": [
+      {
+        "name": "The Hans India",
+        "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036"
+      }
+    ],
+    "terms": [
+      "파운데이션 모델"
+    ]
   },
   {
     "id": "2026-10-01-apple-homepad",
@@ -86,8 +190,15 @@
     "org": "Apple",
     "title": "애플, 10월 13일 Siri 중심 스마트홈 허브 'HomePad' 공개 예정",
     "summary": "애플이 벽이나 테이블에 놓는 6인치 화면의 스마트홈 허브 'HomePad'를 10월 13일 공개할 예정입니다. Siri를 중심으로 한 스마트홈 전용 운영체제와 기기 제어 기능이 핵심입니다. 온디바이스 AI 처리 비중이 높을 것으로 예상됩니다.",
-    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
-    "terms": ["온디바이스 AI"]
+    "sources": [
+      {
+        "name": "The Hans India",
+        "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036"
+      }
+    ],
+    "terms": [
+      "온디바이스 AI"
+    ]
   },
   {
     "id": "2026-10-01-siri-expansion",
@@ -96,7 +207,12 @@
     "org": "Apple",
     "title": "Siri AI, iOS 27.2에서 프랑스어·일본어·한국어·포르투갈어·스페인어로 확장",
     "summary": "애플의 Siri AI 기능이 iOS 27.2 업데이트를 통해 한국어를 포함한 5개 언어로 확장될 예정이며, 10월 안에 배포가 예상됩니다.",
-    "sources": [{ "name": "The Hans India", "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036" }],
+    "sources": [
+      {
+        "name": "The Hans India",
+        "url": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036"
+      }
+    ],
     "terms": []
   },
   {
@@ -106,7 +222,15 @@
     "org": "UCLA",
     "title": "UCLA, 빛 기반 분석으로 딥페이크 98% 정확도 탐지 시스템 개발",
     "summary": "UCLA 연구진이 빛(光)을 이용해 10개 이상의 영상을 동시에 분석하고, 딥페이크 영상을 약 98% 정확도로 탐지하는 AI 시스템을 개발했다고 발표했습니다.",
-    "sources": [{ "name": "The Neuron", "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026" }],
-    "terms": ["딥페이크", "벤치마크"]
+    "sources": [
+      {
+        "name": "The Neuron",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026"
+      }
+    ],
+    "terms": [
+      "딥페이크",
+      "벤치마크"
+    ]
   }
 ]
