@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-07-anthropic-claude-for-startups",
+    "date": "2026-10-07",
+    "category": "industry",
+    "org": "Anthropic",
+    "title": "Anthropic, 스타트업에 Claude Team 1년 무료와 API 크레딧 1,000달러 제공",
+    "summary": "Anthropic이 SF 테크 위크에 맞춰 확대된 'Claude for Startups' 프로그램을 발표했습니다. 설립 5년 이내이거나 최근 2년 내 투자를 받은 기업에 Claude Team 1년 이용권(프리미엄 좌석 최대 5개)과 API 크레딧 1,000달러를 제공합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-06-reflection-beam-open-weight",
     "date": "2026-10-06",
     "category": "model",
