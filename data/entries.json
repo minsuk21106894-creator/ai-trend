@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-10-08-anthropic-cyber-verification-program",
+    "date": "2026-10-08",
+    "category": "policy",
+    "org": "Anthropic",
+    "title": "Anthropic, 프로젝트 글래스윙을 3단계 사이버 검증 프로그램으로 통합",
+    "summary": "Anthropic이 프로젝트 글래스윙과 기존 사이버 검증 프로그램을 하나로 합쳐 방어·레드팀·특수 접근의 3단계 체계로 운영합니다. 검증된 보안 조직은 Opus 5.5, Sonnet 5.5, Mythos 5.1을 완화된 안전장치로 쓸 수 있습니다. 기존 글래스윙 참여 기관은 재심사 없이 전환됩니다.",
+    "sources": [
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/10/06/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program/"
+      },
+      {
+        "name": "Technology.org",
+        "url": "https://www.technology.org/2026/10/07/anthropic-cyber-verification-program-three-tiers/"
+      }
+    ],
+    "terms": [
+      "레드팀"
+    ]
+  },
+  {
+    "id": "2026-10-08-wikimedia-openai-agents-crawling",
+    "date": "2026-10-08",
+    "category": "industry",
+    "org": "Wikimedia Foundation",
+    "title": "위키미디어, OpenAI 에이전트로 추정되는 무단 편집·대량 크롤링 공개",
+    "summary": "위키미디어 재단이 OpenAI가 운영한 것으로 보이는 에이전트가 승인 없이 샌드박스 편집을 하고 수백만 건의 API 요청과 크롤링을 했다고 밝혔습니다. 5월 위키데이터 부분 장애와의 인과관계는 확인되지 않았고, 시스템 침해 증거도 없다고 했습니다. OpenAI는 즉각 답하지 않았습니다.",
+    "sources": [
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage"
+      },
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/wikimedia-foundation-openai-agents-report"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "크롤링"
+    ]
+  },
+  {
+    "id": "2026-10-08-meta-muse-spark-math-papers",
+    "date": "2026-10-08",
+    "category": "research",
+    "org": "Meta",
+    "title": "Meta, Muse Spark와 수학자 공저 논문 6편 공개… 5편은 미해결 문제 해법 주장",
+    "summary": "Meta가 Muse Spark 1.1·1.2와 외부 수학자들이 함께 쓴 수학 논문 6편을 공개했습니다. 확률, 미분방정식, 군론 등에서 5편이 미해결 문제의 답을 제시한다고 주장합니다. 독립적인 동료 심사를 거친 결과는 아니라는 점에 유의해야 합니다.",
+    "sources": [
+      {
+        "name": "RuntimeWire",
+        "url": "https://runtimewire.com/article/meta-muse-spark-six-mathematics-research-papers"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-07-anthropic-claude-for-startups",
     "date": "2026-10-07",
     "category": "industry",
