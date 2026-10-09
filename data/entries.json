@@ -1,5 +1,60 @@
 [
   {
+    "id": "2026-10-09-claude-haiku-5-5",
+    "date": "2026-10-09",
+    "category": "model",
+    "org": "Anthropic",
+    "title": "Anthropic, 가장 저렴하고 빠른 소형 모델 'Claude Haiku 5.5' 출시",
+    "summary": "Anthropic이 10월 7일 Claude Haiku 5.5를 공개했습니다. Haiku 4.5보다 평균 약 75% 저렴하며, Haiku 계열 최초로 추론 강도(effort) 설정을 지원합니다. AWS, Google Cloud, Azure 등 주요 플랫폼에서 바로 이용할 수 있습니다.",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-10-09-mistral-large-4",
+    "date": "2026-10-09",
+    "category": "model",
+    "org": "Mistral AI",
+    "title": "Mistral, 1조 파라미터 멀티모달 모델 'Mistral Large 4' 공개 프리뷰",
+    "summary": "Mistral AI가 10월 6일 Mistral Large 4를 공개 프리뷰로 내놓았습니다. 전체 1조 개 파라미터 중 520억 개만 활성화되는 구조의 네이티브 멀티모달 모델입니다.",
+    "sources": [
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/mistral-large-4/"
+      }
+    ],
+    "terms": [
+      "멀티모달"
+    ]
+  },
+  {
+    "id": "2026-10-09-google-gemini-agent-business",
+    "date": "2026-10-09",
+    "category": "product",
+    "org": "Google",
+    "title": "구글, 업무 앱을 넘나들며 작업을 수행하는 'Gemini 에이전트' 기업용 우선 공개",
+    "summary": "구글이 10월 8일 Gemini를 계획을 세우고 업무 앱과 시스템 전반에서 작업을 실행하는 에이전트로 확장한다고 발표했습니다. 기업 고객에게 먼저 제공하고 이후 일반 소비자로 넓힐 계획입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
     "id": "2026-10-08-anthropic-cyber-verification-program",
     "date": "2026-10-08",
     "category": "policy",
