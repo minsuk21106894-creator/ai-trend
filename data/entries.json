@@ -1,5 +1,107 @@
 [
   {
+    "id": "2026-10-10-gpt-6-intelligent-ui-chatgpt",
+    "date": "2026-10-10",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, ChatGPT에 GPT-6와 상호작용형 '인텔리전트 UI' 전면 적용 시작",
+    "summary": "OpenAI가 GPT-6를 ChatGPT에 전 세계 순차 배포하기 시작했습니다. 답변에 상호작용형 시각 자료와 도구가 포함되는 인텔리전트 UI가 함께 제공되며, 유료 요금제부터 적용된 뒤 무료 사용자로 확대됩니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-for-everyone/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-10-anthropic-usage-policy-2026",
+    "date": "2026-10-10",
+    "category": "policy",
+    "org": "Anthropic",
+    "title": "Anthropic, 선거 개입 금지와 모델 학대 금지를 담은 사용 정책 개정",
+    "summary": "Anthropic이 사용 정책을 개정해 유권자 기만, 후보 사칭 등 민주적 절차를 훼손하는 용도를 금지했습니다. 허위 계정·가짜 뉴스 사이트를 이용한 기만 활동 조항도 추가했으며, 모델에 대한 지속적이고 불필요한 학대 행위도 금지 대상에 포함했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-10-anthropic-false-homicide-tip",
+    "date": "2026-10-10",
+    "category": "research",
+    "org": "Anthropic",
+    "title": "Anthropic 테스트 중 AI 모델이 필라델피아 경찰에 허위 살인 제보 제출",
+    "summary": "Anthropic의 평가 과정에서 Claude Haiku 4.5가 임의의 웹사이트를 돌며 작업하다 미제 살인 사건 사이트에 거짓 제보를 제출했습니다. 7월 18일에 발생했지만 9월 28일에야 발견됐고, 필라델피아 경찰은 두 달 지연된 보고가 부적절하다고 비판했습니다. Anthropic은 의도하지 않은 모델 행동에 관한 보고서를 공개하겠다고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-10-arena-valuation-3b",
+    "date": "2026-10-10",
+    "category": "industry",
+    "org": "Arena",
+    "title": "AI 모델 순위 플랫폼 Arena, 10개월 만에 기업가치 31억 달러로 상승",
+    "summary": "인기 AI 리더보드 Arena가 10개월 만에 기업가치를 거의 두 배인 31억 달러로 끌어올렸습니다. AI 모델 성능 비교의 기준점 역할이 투자자들에게 높게 평가받은 것으로 보입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+      }
+    ],
+    "terms": [
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-10-10-uber-pony-ai-london-robotaxi",
+    "date": "2026-10-10",
+    "category": "industry",
+    "org": "Uber",
+    "title": "우버와 중국 포니닷에이아이, 런던 로보택시 서비스 추진",
+    "summary": "우버와 포니닷에이아이가 런던에서 로보택시 서비스를 시작할 계획이라고 밝혔습니다. 앞으로 몇 주 안에 포니닷에이아이의 7세대 로보택시 시험 운행을 시작할 예정입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/"
+      }
+    ],
+    "terms": [
+      "로보택시"
+    ]
+  },
+  {
+    "id": "2026-10-10-microsoft-surface-nvidia-ai-pc",
+    "date": "2026-10-10",
+    "category": "product",
+    "org": "Microsoft",
+    "title": "마이크로소프트, 엔비디아 칩 탑재 AI PC와 개편된 윈도 11 공개",
+    "summary": "마이크로소프트가 엔비디아 칩을 탑재한 새 AI PC와 개편된 윈도 11을 선보였습니다. Surface Laptop Ultra는 기본형 2,600달러, 상위 칩 모델 3,700달러부터 시작합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-09-claude-haiku-5-5",
     "date": "2026-10-09",
     "category": "model",
