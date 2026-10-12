@@ -1,5 +1,73 @@
 [
   {
+    "id": "2026-10-12-fmcsa-aurora-warning-beacon-exemption",
+    "date": "2026-10-12",
+    "category": "policy",
+    "org": "FMCSA",
+    "title": "美 연방 당국, 자율주행 트럭에 경고 삼각대 대신 경고등 허용하는 5년 예외 승인",
+    "summary": "미국 연방자동차운송안전청(FMCSA)이 Aurora 등 자율주행 트럭 업체에 5년간 예외를 허용했습니다. 고장 시 운전자가 반사 삼각대를 놓아야 하는 규정 대신 차량에 장착한 경고 비콘을 쓸 수 있게 됩니다. Aurora가 예외 신청 거부 후 소송까지 진행한 끝에 나온 결정입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-12-anthropic-cyber-mission",
+    "date": "2026-10-12",
+    "category": "industry",
+    "org": "Anthropic",
+    "title": "Anthropic, 핵심 인프라 방어 프로그램과 무료 OSS Scanner 담은 '사이버 미션' 출범",
+    "summary": "Anthropic이 CrowdStrike, Deloitte, Palo Alto Networks 등 11개 파트너와 전력·수도 등 핵심 인프라 방어 프로그램을 시작했습니다. 오픈소스 프로젝트에 AI 취약점 점검을 무료로 제공하는 OSS Scanner도 함께 공개했습니다.",
+    "sources": [
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/anthropic-cyber-mission-critical-infrastructure-oss-scanner"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-12-manus-500m-funding",
+    "date": "2026-10-12",
+    "category": "industry",
+    "org": "Manus",
+    "title": "중국 AI 에이전트 업체 Manus, 메타 인수 무산 후 첫 투자로 5억 달러 이상 유치",
+    "summary": "Manus의 모회사 Butterfly Effect가 Boyu Capital과 IDG Capital 주도로 5억 달러 넘는 투자를 받았습니다. 메타의 인수가 무산된 뒤 처음 받는 투자이며, 기업가치는 공개되지 않았습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-10-12-nous-research-hermes-agent-business",
+    "date": "2026-10-12",
+    "category": "product",
+    "org": "Nous Research",
+    "title": "Nous Research, 기업가치 15억 달러 확인하며 업무용 AI 에이전트 출시",
+    "summary": "오픈소스 Hermes Agent를 만든 Nous Research가 엔비디아 등이 참여한 9,000만 달러 시리즈 B로 기업가치 15억 달러를 확인했습니다. 일반 업무 사용자를 위한 AI 에이전트도 함께 선보였습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
     "id": "2026-10-10-gpt-6-intelligent-ui-chatgpt",
     "date": "2026-10-10",
     "category": "product",
