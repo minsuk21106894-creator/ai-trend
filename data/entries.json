@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026-10-13-meta-muse-wonder",
+    "date": "2026-10-13",
+    "category": "model",
+    "org": "Meta",
+    "title": "Meta, 프런티어급 성능의 'Muse Wonder'와 'Muse Wonder Full' 공개… 가중치는 비공개",
+    "summary": "Meta Superintelligence Labs가 Muse Wonder와 Muse Wonder Full 두 모델을 공개했습니다. 두 모델 모두 가중치는 공개되지 않았으며, 일반 모델은 상용 API로 제공됩니다. 더 강력한 Full 버전은 코딩 어시스턴트 Muse Code 유료 구독자에게만 제공되고, 장시간 소프트웨어 엔지니어링과 일부 전문 에이전트 작업에서 경쟁력이 높다고 Meta는 밝혔습니다.",
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api"
+      }
+    ],
+    "terms": [
+      "프런티어 모델",
+      "오픈 웨이트",
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-10-13-ambi-always-listening-ai-app",
+    "date": "2026-10-13",
+    "category": "industry",
+    "org": "Ambi",
+    "title": "전 Plaud 임원이 세운 Ambi, 상시 청취형 AI 앱으로 2,600만 달러 유치",
+    "summary": "Ambi가 Luminous Ventures 주도로 총 2,600만 달러를 유치했다고 밝혔습니다. 이 앱은 백그라운드에서 항상 사용자의 말을 듣는 AI 비서이며, 아이폰·맥·애플워치용 앱을 출시할 예정입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-12-fmcsa-aurora-warning-beacon-exemption",
     "date": "2026-10-12",
     "category": "policy",
