@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-10-15-xai-grok-voice-3",
+    "date": "2026-10-15",
+    "category": "model",
+    "org": "xAI",
+    "title": "xAI, 음성 대화 모델 'Grok Voice 3.0' 공개… 음성-음성 지수 1위",
+    "summary": "xAI가 음성을 입력받아 음성으로 바로 답하는 'Grok Voice 3.0'을 출시했습니다. Artificial Analysis의 음성-음성 지수에서 86.9점으로 1위를 기록했다고 밝혔습니다. 가격은 이전 버전과 같은 분당 0.08달러이며 음성 에이전트 API로 제공됩니다.",
+    "sources": [
+      {
+        "name": "xAI",
+        "url": "https://x.ai/news/grok-voice-3"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-10-15-deepmind-european-science-compute",
+    "date": "2026-10-15",
+    "category": "research",
+    "org": "Google DeepMind",
+    "title": "구글 딥마인드, 유럽 연구자 200명에게 최신 모델과 300만 달러 컴퓨트 크레딧 지원",
+    "summary": "구글 딥마인드와 구글 클라우드가 유럽 과학자 최대 200명에게 프런티어 모델 접근권과 300만 달러 상당의 컴퓨트 크레딧을 제공합니다. 과학 연구에 최신 AI를 활용하도록 돕는 프로그램입니다.",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models"
+      }
+    ],
+    "terms": [
+      "프런티어 모델",
+      "컴퓨트 크레딧"
+    ]
+  },
+  {
+    "id": "2026-10-15-colossal-genomorph",
+    "date": "2026-10-15",
+    "category": "product",
+    "org": "Colossal Biosciences",
+    "title": "콜로설, 도도새 복원용 AI 플랫폼 'GenoMorph' 공개",
+    "summary": "콜로설 바이오사이언스가 유전체 정보가 적은 상황에서도 편집 후보 유전자를 찾는 AI 플랫폼 'GenoMorph'를 발표했습니다. 조류 70여 종의 3D 두개골 측정값과 발생 데이터를 학습했으며, 도도새 얼굴 형태와 관련된 편집 후보 약 2,300개를 찾았다고 합니다. 유전자를 직접 편집하는 도구는 아닙니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
+      }
+    ],
+    "terms": [
+      "유전체"
+    ]
+  },
+  {
+    "id": "2026-10-15-zenzap-44m",
+    "date": "2026-10-15",
+    "category": "industry",
+    "org": "Zenzap",
+    "title": "AI 업무 메신저 Zenzap, 4,400만 달러 투자 유치",
+    "summary": "AI 에이전트를 내장해 업무용 왓츠앱 대체를 노리는 메신저 Zenzap이 Bessemer, Lightspeed 등으로부터 4,400만 달러를 유치했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
     "id": "2026-10-13-meta-muse-wonder",
     "date": "2026-10-13",
     "category": "model",
