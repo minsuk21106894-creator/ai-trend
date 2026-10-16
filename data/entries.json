@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-10-16-gemini-4-argon-app-availability",
+    "date": "2026-10-16",
+    "category": "model",
+    "org": "Google",
+    "title": "구글, 'Gemini 4 Argon'을 Gemini 앱과 API 유료 이용자에게 확대 공개",
+    "summary": "구글이 지난달 사이버 방어 전문가에게만 먼저 공개했던 Gemini 4 Argon을 Gemini 앱 Pro·Ultra 구독자와 유료 API 개발자에게 제공하기 시작했습니다. 복잡한 추론과 코딩 성능이 강화됐으며, 점진적으로 전 세계에 적용됩니다.",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-availability"
+      }
+    ],
+    "terms": [
+      "API"
+    ]
+  },
+  {
+    "id": "2026-10-16-alibaba-qwengyre-agent-rl",
+    "date": "2026-10-16",
+    "category": "research",
+    "org": "Alibaba",
+    "title": "알리바바 Qwen, 수 시간짜리 에이전트 학습을 최대 1.85배 빠르게 하는 'QwenGyre' 공개",
+    "summary": "알리바바 Qwen 팀이 매우 긴 작업을 수행하는 AI 에이전트를 강화학습으로 훈련하는 프레임워크 QwenGyre를 발표했습니다. 실행 도중 GPU를 학습과 추론에 유연하게 재배분해 기존 방식보다 최대 1.85배 빠른 속도를 보고했습니다. 공개된 코드는 없습니다.",
+    "sources": [
+      {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "강화학습"
+    ]
+  },
+  {
+    "id": "2026-10-16-scimplify-25m-ai-materials",
+    "date": "2026-10-16",
+    "category": "industry",
+    "org": "Scimplify",
+    "title": "인도 Scimplify, AI 기반 핵심 소재 생산 확대 위해 2,500만 달러 유치",
+    "summary": "인도 스타트업 Scimplify가 히타치 벤처스 주도로 2,500만 달러를 투자받았습니다. AI를 활용해 특수 화학물질과 핵심 소재를 생산하며, 중국 의존도를 낮추는 것을 목표로 합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-15-xai-grok-voice-3",
     "date": "2026-10-15",
     "category": "model",
