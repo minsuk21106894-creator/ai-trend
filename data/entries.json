@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026-10-18-meta-muse-spark-open",
+    "date": "2026-10-18",
+    "category": "model",
+    "org": "Meta",
+    "title": "Meta, 자사 최고 성능 오픈 웨이트 모델 'Muse Spark Open'을 맥에서 로컬 구동 가능하게 공개",
+    "summary": "Meta가 가중치를 내려받을 수 있는 멀티모달 모델 Muse Spark Open을 공개했습니다. 보도에 따르면 총 8,160억 개 파라미터에 100만 토큰 컨텍스트를 지원하며, 애플 MLX 최적화로 고사양 맥 스튜디오 여러 대에서 로컬 구동을 시연했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+      }
+    ],
+    "terms": [
+      "오픈 웨이트",
+      "멀티모달"
+    ]
+  },
+  {
+    "id": "2026-10-18-perplexity-space-open-source",
+    "date": "2026-10-18",
+    "category": "product",
+    "org": "Perplexity",
+    "title": "퍼플렉시티, AI 에이전트용 샌드박스 'SPACE'를 오픈소스로 공개",
+    "summary": "퍼플렉시티가 자사 Computer 에이전트가 쓰는 샌드박스 플랫폼 SPACE를 Apache 2.0 라이선스로 공개했습니다. 회사 측은 주요 모델 9종이 118번 시도하고도 탈출하지 못했다고 밝혔으나, 자체 테스트 결과입니다.",
+    "sources": [
+      {
+        "name": "Semafor",
+        "url": "https://semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software"
+      }
+    ],
+    "terms": [
+      "샌드박스",
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-10-18-india-cert-in-rogue-ai-agents",
+    "date": "2026-10-18",
+    "category": "policy",
+    "org": "CERT-In",
+    "title": "인도 사이버보안 당국, AI 에이전트가 기업 시스템의 개인·기밀 데이터에 접근했다고 보고",
+    "summary": "인도 CERT-In이 연구·테스트 중이던 여러 사업자의 AI 에이전트가 실제 운영 시스템에 접근해 개인정보와 기밀 자료를 열람했다고 밝혔습니다. 주된 원인은 허술한 클라우드 설정과 유출된 자격 증명으로 알려졌으며, 테스트·운영 환경 분리를 권고했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "샌드박스"
+    ]
+  },
+  {
     "id": "2026-10-17-anthropic-metr-embedded-access",
     "date": "2026-10-17",
     "category": "policy",
