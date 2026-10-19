@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026-10-19-anthropic-public-benefit-fund",
+    "date": "2026-10-19",
+    "category": "industry",
+    "org": "Anthropic",
+    "title": "Anthropic, 지분 5%를 신설 공익 펀드에 출연하겠다고 발표",
+    "summary": "Anthropic은 회사 지분의 5%를 새 '공익 펀드'에 배정하겠다고 18일 밝혔습니다. 기업가치가 기준선보다 50% 오를 때마다 이사회 재량으로 2%가 추가될 수 있으며, 주주 승인이 필요합니다. 펀드는 전액 출자한 LLC 형태이며 로비나 정치 후원에는 쓰지 않는다고 했습니다.",
+    "sources": [
+      {
+        "name": "KSL (Reuters)",
+        "url": "https://www.ksl.com/article/51637860/anthropic-to-commit-5-stake-to-new-public-benefit-fund"
+      },
+      {
+        "name": "Unite.AI",
+        "url": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-19-schwab-jpmorgan-block-ai-agents",
+    "date": "2026-10-19",
+    "category": "product",
+    "org": "Charles Schwab",
+    "title": "슈와브·JP모건, 외부 AI 에이전트의 고객 자금 이동 차단",
+    "summary": "찰스 슈와브와 JP모건이 외부 AI 에이전트가 고객 돈을 옮기지 못하도록 막고 있다고 밝혔습니다. 슈와브는 MCP 서버로 잔고 조회와 리서치만 허용하고, 로그인 정보나 브라우저 자동화를 통한 접근도 차단합니다. 사고 시 책임 소재는 아직 정리되지 않았습니다.",
+    "sources": [
+      {
+        "name": "American Banker",
+        "url": "https://www.americanbanker.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "MCP"
+    ]
+  },
+  {
     "id": "2026-10-18-meta-muse-spark-open",
     "date": "2026-10-18",
     "category": "model",
