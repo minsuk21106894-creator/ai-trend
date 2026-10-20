@@ -1,5 +1,54 @@
 [
   {
+    "id": "2026-10-20-deepseek-v41-flash-us-agency-ban",
+    "date": "2026-10-20",
+    "category": "policy",
+    "org": "DeepSeek",
+    "title": "딥시크, 'V4.1-Flash-1017' 공개 직후 미국 정부가 연방기관 사용 금지",
+    "summary": "중국 AI 기업 딥시크가 10월 17일 성능을 개선한 'DeepSeek-V4.1-Flash-1017'을 공개했습니다. 보도에 따르면 미국 정부는 같은 시기에 이 모델의 연방기관 사용을 금지했으며, 기업들은 도입 전 보안 검토가 필요하다는 분석이 나왔습니다.",
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/security/deepseek-v4-1-flash-1017-arrives-with-improved-benchmarks-just-as-the-u-s-government-bans-it-from-agencies-what-enterprises-should-do"
+      }
+    ],
+    "terms": [
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-10-19-tenstorrent-6-2b-valuation",
+    "date": "2026-10-20",
+    "category": "industry",
+    "org": "Tenstorrent",
+    "title": "AI 반도체 스타트업 텐스토렌트, 15억 달러 유치하며 기업가치 62억 달러 달성",
+    "summary": "오픈 웨이트 AI 칩을 만드는 텐스토렌트가 15억 달러를 유치해 기업가치 62억 달러를 인정받았습니다. 이번 투자는 트레이스 캐피털과 이노베이션 X가 주도했으며, 칩 생산 확대에 쓰일 예정입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      }
+    ],
+    "terms": [
+      "오픈 웨이트"
+    ]
+  },
+  {
+    "id": "2026-10-20-fal-flux-3-max",
+    "date": "2026-10-20",
+    "category": "product",
+    "org": "fal",
+    "title": "fal, 블랙포레스트랩스와 AI 영상 생성 모델 'FLUX 3 Max' 출시",
+    "summary": "fal이 AI 영상 생성 모델 'FLUX 3 Max'를 출시했습니다. 동일한 품질 점수의 경쟁 모델 Seedance 2.5보다 약 22배 빠르다고 주장합니다.",
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/technology/fal-launches-flux-3-max-claiming-22-faster-ai-video-generation-than-seedance-2-5"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-19-anthropic-public-benefit-fund",
     "date": "2026-10-19",
     "category": "industry",
