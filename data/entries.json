@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-10-22-recursive-flint-laptop-coding-model",
+    "date": "2026-10-22",
+    "category": "model",
+    "org": "Recursive",
+    "title": "스타트업 Recursive, AI가 대부분 만들었다는 노트북용 코딩 모델 'Flint' 공개",
+    "summary": "Recursive가 노트북에서 구동되는 무료 코딩 모델 Flint를 공개했습니다. 전체 400억 개 파라미터 중 작업당 25억 개만 활성화하는 혼합 전문가(MoE) 구조이며, SWE-Bench Verified에서 500억 파라미터 미만 모델 중 가장 높은 성능을 냈다고 밝혔습니다. 회사는 모델 개발의 상당 부분을 AI가 수행했다며 자기 개선 AI의 초기 사례로 소개했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+      }
+    ],
+    "terms": [
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-10-22-legora-series-e-550m",
+    "date": "2026-10-22",
+    "category": "industry",
+    "org": "Legora",
+    "title": "법률 AI 스타트업 Legora, 5억 5천만 달러 시리즈 E로 기업가치 88억 달러 달성",
+    "summary": "법률 AI 스타트업 Legora가 5억 5천만 달러 규모 시리즈 E 투자를 유치해 기업가치 88억 달러를 인정받았습니다. 경쟁사 Harvey는 약 한 달 전 같은 규모를 유치하며 기업가치 155억 달러를 기록한 바 있습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-22-meta-muse-10m-users",
+    "date": "2026-10-22",
+    "category": "product",
+    "org": "Meta",
+    "title": "Meta, AI 비서 'Muse' 이용자 1천만 명 돌파… 쇼핑이 주요 용도",
+    "summary": "Meta가 3분기 실적 발표에서 Muse 이용자가 1천만 명을 넘었다고 밝혔습니다. 저커버그 CEO는 가입자의 약 25%가 매일 쓰며, 쇼핑과 개인 생산성이 주된 용도라고 설명했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-20-deepseek-v41-flash-us-agency-ban",
     "date": "2026-10-20",
     "category": "policy",
