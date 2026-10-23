@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-10-23-blacksmith-series-c-66m",
+    "date": "2026-10-23",
+    "category": "industry",
+    "org": "Blacksmith",
+    "title": "AI 코딩 확산에 테스트 수요 급증, Blacksmith가 6,600만 달러 시리즈 C로 기업가치 10억 달러 달성",
+    "summary": "Blacksmith가 세쿼이아캐피털 주도로 6,600만 달러 규모 시리즈 C 투자를 유치해 기업가치 10억 달러를 인정받았습니다. AI 코딩 도구 확산으로 코드 테스트 수요가 늘고 있는 점이 배경으로 알려졌습니다.",
+    "sources": [
+      {
+        "name": "Konsulteer",
+        "url": "https://konsulteer.com/article/blacksmith-raises-66-million-at-1-billion-valuation-as-ai-coding-drives-testing-demand"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-23-pigment-series-e-250m",
+    "date": "2026-10-23",
+    "category": "industry",
+    "org": "Pigment",
+    "title": "프랑스 AI 플랫폼 Pigment, 2억 5천만 달러 시리즈 E 유치",
+    "summary": "파리 기반 Pigment가 2억 5천만 달러 규모 시리즈 E 투자를 유치했으며, 기업가치는 23억 달러로 알려졌습니다.",
+    "sources": [
+      {
+        "name": "Silicon Republic",
+        "url": "https://www.siliconrepublic.com/start-ups/ai-platform-pigment-raises-series-e-funding-round-france-paris"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-22-recursive-flint-laptop-coding-model",
     "date": "2026-10-22",
     "category": "model",
