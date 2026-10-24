@@ -1,5 +1,70 @@
 [
   {
+    "id": "2026-10-24-deepseek-raises-15b",
+    "date": "2026-10-24",
+    "category": "industry",
+    "org": "DeepSeek",
+    "title": "딥시크, 미국 연방기관 사용 금지 이틀 만에 약 150억 달러 투자 유치 보도",
+    "summary": "블룸버그 보도에 따르면 중국 AI 연구소 딥시크가 약 150억 달러를 조달했습니다. 미국이 연방 민간 기관에 딥시크 기술 제거를 명령한 지 이틀 만입니다. 공식 발표가 아닌 보도 수치입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-10-24-warp-sciences-launch",
+    "date": "2026-10-24",
+    "category": "industry",
+    "org": "Warp Sciences",
+    "title": "전 OpenAI 과학 책임자 케빈 웨일, 로봇으로 습식 실험실을 자동화하는 Warp Sciences 설립",
+    "summary": "케빈 웨일이 신약 개발용 습식 실험실 작업을 로봇으로 자동화하는 스타트업을 공개했습니다. 웨일은 X를 통해 기업가치 8억 6,500만 달러에 2억 1,500만 달러를 유치했다고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+      }
+    ],
+    "terms": [
+      "습식 실험실"
+    ]
+  },
+  {
+    "id": "2026-10-24-openai-decisions-api-ga",
+    "date": "2026-10-24",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, 'Decisions API'를 전 고객에게 공개하며 음성·시각 기능 추가",
+    "summary": "OpenAI가 9월 29일 개발자 행사에서 예고했던 Decisions API를 목요일부터 모든 고객에게 제공했습니다. 공개 버전에는 음성과 시각 모달리티가 새로 더해졌습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+      }
+    ],
+    "terms": [
+      "API",
+      "멀티모달"
+    ]
+  },
+  {
+    "id": "2026-10-24-canva-craft-image-model",
+    "date": "2026-10-24",
+    "category": "model",
+    "org": "Canva",
+    "title": "캔바, 자체 첫 이미지 생성 모델 공개… 전체 이용자에게 제공",
+    "summary": "캔바가 처음으로 자체 이미지 생성 모델을 출시했습니다. 모든 이용자가 Dream Lab 탭에서 사용할 수 있습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-23-blacksmith-series-c-66m",
     "date": "2026-10-23",
     "category": "industry",
