@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-10-25-openai-models-google-cloud",
+    "date": "2026-10-25",
+    "category": "industry",
+    "org": "OpenAI",
+    "title": "OpenAI, 자사 모델과 Codex를 경쟁사 구글 클라우드 Model Garden에 제공",
+    "summary": "OpenAI가 10월 21일 자사 프런티어 모델과 Codex를 구글 클라우드의 Model Garden에 들여온다고 발표했습니다. 현재 초대제 비공개 프리뷰이며 정식 출시는 수 주 내로 예정돼 있습니다. 구매는 구글 클라우드 마켓플레이스로 할 수 있습니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/openai-models-google-cloud/"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/openai-models-codex-google-cloud"
+      }
+    ],
+    "terms": [
+      "프런티어 모델"
+    ]
+  },
+  {
+    "id": "2026-10-25-block-dessa-voice-model",
+    "date": "2026-10-25",
+    "category": "model",
+    "org": "Block",
+    "title": "블록, 사람 대화만으로 학습한 로컬 구동 음성 모델 'Dessa' 공개",
+    "summary": "블록이 사람 간 대화만으로 처음부터 학습한 음성 모델 Dessa를 공개했습니다. 맥북 M4 맥스급 소비자용 컴퓨터에서 로컬로 구동되며 아직 일반에 공개되지 않았습니다. 일부 AI 안전 연구자에게만 조기 접근을 제공해 위험을 점검합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      },
+      {
+        "name": "Block",
+        "url": "https://block.xyz/dessa"
+      }
+    ],
+    "terms": [
+      "풀 듀플렉스"
+    ]
+  },
+  {
+    "id": "2026-10-25-anthropic-frontier-ai-bill-draft",
+    "date": "2026-10-25",
+    "category": "policy",
+    "org": "Anthropic",
+    "title": "Anthropic, 10억 달러 피해·50명 사상 위험 때 모델 차단 허용하는 연방 AI 법안 초안 제안",
+    "summary": "Anthropic이 미 의회에 비공개로 연방 프런티어 AI 안전법 초안을 제안한 것으로 보도됐습니다. 생물무기, 통제 이탈, 사이버 공격으로 10억 달러 초과 피해나 50명 초과 사상이 임박한 경우에만 정부가 모델 출시를 막을 수 있습니다. 일부 주(州)법을 선점하는 내용도 담겼습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+      },
+      {
+        "name": "TechSpot",
+        "url": "https://techspot.com/news/114252-anthropic-wants-ai-models-blocked-only-if-they.html"
+      }
+    ],
+    "terms": [
+      "프런티어 모델",
+      "선점 입법"
+    ]
+  },
+  {
     "id": "2026-10-24-deepseek-raises-15b",
     "date": "2026-10-24",
     "category": "industry",
