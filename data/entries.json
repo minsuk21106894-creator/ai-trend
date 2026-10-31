@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-10-31-gemini-4-carbon",
+    "date": "2026-10-31",
+    "category": "model",
+    "org": "Google",
+    "title": "구글, 최강 모델 'Gemini 4 Carbon'을 사이버 방어 기관에 먼저 제한 공개",
+    "summary": "구글이 10월 28일 자사 가장 강력한 프런티어 모델 Gemini 4 Carbon을 발표했습니다. 우선 딥마인드의 Fairwind 프로그램을 통해 일부 사이버 방어 기관에만 제공하며, 일반 공개는 안전장치가 갖춰진 뒤로 미뤘습니다. 구글은 보안 코드 생성 성공률이 Gemini 4 Argon의 2배 이상이라고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      },
+      {
+        "name": "Khaleej Times",
+        "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2"
+      }
+    ],
+    "terms": [
+      "프런티어 모델"
+    ]
+  },
+  {
+    "id": "2026-10-31-openai-gpt-6-1-terra",
+    "date": "2026-10-31",
+    "category": "model",
+    "org": "OpenAI",
+    "title": "OpenAI, 컴퓨터 사용에 강한 'GPT-6.1 Terra' 출시… 가격 절반으로 인하",
+    "summary": "OpenAI가 10월 26일 GPT-6.1 Terra를 API와 ChatGPT Work, Codex 유료 이용자에게 내놓았습니다. 컴퓨터 사용과 시각 추론에 초점을 맞췄고 이전 모델보다 API 가격이 50% 낮다고 밝혔습니다. 가장 어려운 코딩에는 GPT-6.1 Sol 등이 여전히 낫다고 안내했습니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+      },
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+      }
+    ],
+    "terms": [
+      "API"
+    ]
+  },
+  {
+    "id": "2026-10-31-genie-4-world-model",
+    "date": "2026-10-31",
+    "category": "research",
+    "org": "Google DeepMind",
+    "title": "구글 딥마인드, 실시간 상호작용 월드 모델 'Genie 4' 공개",
+    "summary": "구글 딥마인드가 10월 27일 실시간으로 상호작용하는 가상 세계를 만드는 월드 모델 Genie 4를 발표했습니다. 음성도 함께 생성하며, 현재는 신뢰할 수 있는 테스터에게만 제한 공개된 연구 프리뷰입니다. 곧 Google AI Ultra 구독자와 Gemini API 초기 파트너에게 제공될 예정입니다.",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"
+      }
+    ],
+    "terms": [
+      "월드 모델",
+      "API"
+    ]
+  },
+  {
     "id": "2026-10-27-anthropic-ipo-filing",
     "date": "2026-10-27",
     "category": "industry",
