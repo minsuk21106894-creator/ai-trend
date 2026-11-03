@@ -1,5 +1,60 @@
 [
   {
+    "id": "2026-11-03-marvell-acquires-lumentum",
+    "date": "2026-11-03",
+    "category": "industry",
+    "org": "Marvell",
+    "title": "마벨, AI 데이터센터용 광통신 업체 루멘텀을 기업가치 1,150억 달러에 인수하기로 합의",
+    "summary": "마벨 테크놀로지는 11월 2일 루멘텀을 전액 주식 교환 방식으로 인수하는 계약을 발표했습니다. 루멘텀 주당 마벨 주식 4.5주를 주며, 합병 후 지분은 마벨 주주 약 67%, 루멘텀 주주 약 33%입니다. 양사는 AI 연결 수요에 대응한다는 입장이며, 거래는 아직 완료되지 않았습니다.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+      },
+      {
+        "name": "SEC (Lumentum 8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+      }
+    ],
+    "terms": [
+      "광통신"
+    ]
+  },
+  {
+    "id": "2026-11-03-mit-gpt6-astra-edits-qwen-weights",
+    "date": "2026-11-03",
+    "category": "research",
+    "org": "MIT",
+    "title": "MIT 연구진, GPT-6 Astra로 오픈 모델 Qwen의 가중치를 직접 수정해 수학 성능 향상",
+    "summary": "MIT CSAIL 연구진은 OpenAI의 GPT-6 Astra를 이용해 소형 오픈 모델 Qwen3.5-0.8B의 가중치를 직접 수정했습니다. MATH-500 점수가 7.9%에서 48.1%로 올랐다고 보도됐습니다. 다만 이 결과에 대해 SNS에서는 회의적인 반응도 나옵니다.",
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance"
+      }
+    ],
+    "terms": [
+      "가중치",
+      "오픈 웨이트",
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-11-03-openai-altman-uae-deals",
+    "date": "2026-11-03",
+    "category": "industry",
+    "org": "OpenAI",
+    "title": "올트먼 OpenAI CEO, 아랍에미리트에서 에너지·투자 관련 계약 체결",
+    "summary": "샘 올트먼 CEO가 아부다비를 방문해 에미리트 왕세자 등과 만나 에너지, 투자 기관, 정부 기관 관련 계약을 맺었다고 블룸버그가 11월 2일 보도했습니다. 세부 계약 조건은 확인되지 않았습니다.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-10-31-gemini-4-carbon",
     "date": "2026-10-31",
     "category": "model",
