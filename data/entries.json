@@ -1,5 +1,84 @@
 [
   {
+    "id": "2026-11-06-openai-images-2-6",
+    "date": "2026-11-06",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, 더 빠르고 정밀한 편집이 가능한 'ChatGPT Images 2.6' 공개",
+    "summary": "OpenAI가 ChatGPT와 Codex 전 구독 등급에 Images 2.6을 제공한다고 밝혔습니다. 이미지 생성 속도가 빨라지고 GIF 제작과 정밀한 편집이 가능해졌습니다. API에는 속도 중심의 Flare와 품질 중심의 Sunburst 모델이 추가됐습니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-images-2-6/"
+      }
+    ],
+    "terms": [
+      "API"
+    ]
+  },
+  {
+    "id": "2026-11-06-anthropic-claude-personal-finance",
+    "date": "2026-11-06",
+    "category": "product",
+    "org": "Anthropic",
+    "title": "Anthropic, 은행 계좌 연동해 지출을 분석하는 Claude 'Personal Finance' 베타 출시",
+    "summary": "Anthropic이 Plaid로 은행·카드 계좌를 연결해 지출을 분석하는 Personal Finance 도구를 베타로 공개했습니다. 읽기 전용이라 돈을 이동하거나 투자할 수는 없습니다. 미국의 Pro, Max, Ultra 이용자부터 제공됩니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-06-apple-cuts-internal-ai-budgets",
+    "date": "2026-11-06",
+    "category": "industry",
+    "org": "Apple",
+    "title": "애플, 일부 엔지니어의 사내 AI 사용 예산 삭감",
+    "summary": "블룸버그는 애플이 지출을 줄이기 위해 내부 AI 사용 예산을 줄였다고 보도했습니다. 사내 AI 도구 비용 관리가 대형 기술기업에서도 부담이 되고 있음을 보여줍니다.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-06-discovered-materials-prize",
+    "date": "2026-11-06",
+    "category": "research",
+    "org": "Discovered Materials",
+    "title": "YC 스타트업, AI가 풀지 못한 재료과학 난제 5개에 100만 달러 상금 걸어",
+    "summary": "Y Combinator 출신 스타트업 Discovered Materials가 미해결 재료과학 문제 5개에 총 100만 달러의 상금을 내걸었습니다. 최신 프런티어 모델이 문제당 며칠씩 매달렸지만 뚜렷한 진전이 없었다고 합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai"
+      }
+    ],
+    "terms": [
+      "프런티어 모델"
+    ]
+  },
+  {
+    "id": "2026-11-06-ai-companies-midterm-scrutiny",
+    "date": "2026-11-06",
+    "category": "policy",
+    "org": "미국 의회",
+    "title": "중간선거 민주당 승리로 AI 기업 규제·감시 강화 전망",
+    "summary": "블룸버그는 민주당이 중간선거에서 우위를 차지하면서 AI 기업이 새로운 압박에 직면할 것이라고 보도했습니다. 데이터센터에 대한 주 정부 규제 강화가 가장 먼저 나타날 변화로 꼽히며, 의회의 빅테크 감시도 커질 수 있습니다.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-companies-brace-for-new-challenges-after-democrats-win"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-11-04-anthropic-rsi-report",
     "date": "2026-11-04",
     "category": "research",
