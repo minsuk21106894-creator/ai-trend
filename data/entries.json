@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-07-meta-acquires-conductor",
+    "date": "2026-11-07",
+    "category": "industry",
+    "org": "Meta",
+    "title": "Meta, 여러 AI 코딩 에이전트를 동시에 돌리는 스타트업 Conductor 인수",
+    "summary": "Meta가 Claude Code·Codex 등 여러 코딩 에이전트를 한 화면에서 병렬로 실행하는 앱 Conductor를 인수했습니다. 팀은 Meta 슈퍼인텔리전스 랩스에 합류하며 기존 제품은 단계적으로 종료됩니다. 인수 금액은 공개되지 않았습니다.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
+      },
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-07-openai-acquire-pierre",
+    "date": "2026-11-07",
+    "category": "industry",
+    "org": "OpenAI",
+    "title": "OpenAI, 코드 저장소 개발도구 스타트업 Pierre Computer 인수 추진",
+    "summary": "OpenAI가 개발도구 스타트업 Pierre Computer를 인수한다고 발표했습니다. Pierre의 코드 저장(Code Storage) 기능을 Codex에 통합할 계획입니다. 인수 조건은 공개되지 않았습니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/openai-to-acquire-pierre/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-11-06-openai-images-2-6",
     "date": "2026-11-06",
     "category": "product",
