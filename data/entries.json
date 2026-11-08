@@ -1,5 +1,71 @@
 [
   {
+    "id": "2026-11-08-openai-11b-raise-1-25t-valuation",
+    "date": "2026-11-08",
+    "category": "industry",
+    "org": "OpenAI",
+    "title": "OpenAI, 기업가치 1조 2,500억 달러 평가로 추가 110억 달러 조달 보도",
+    "summary": "블룸버그 보도에 따르면 OpenAI가 기업가치 1조 2,500억 달러로 평가받는 투자 라운드에서 지금까지 110억 달러를 모았습니다. 라운드는 아직 마무리되지 않았으며 수 주 안에 종료될 것으로 알려졌습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-08-crowdstrike-buys-fiddler-dreadnode",
+    "date": "2026-11-08",
+    "category": "industry",
+    "org": "CrowdStrike",
+    "title": "크라우드스트라이크, AI 보안 스타트업 2곳을 약 5억 달러에 인수",
+    "summary": "크라우드스트라이크가 Fiddler AI와 Dreadnode를 인수합니다. 월스트리트저널은 인수가를 각각 약 4억 달러, 약 9,500만 달러로 전했습니다. AI 에이전트를 보호하는 보안 시장이 커지고 있음을 보여주는 사례입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-08-zest-restaurant-agent-text",
+    "date": "2026-11-08",
+    "category": "product",
+    "org": "Zest",
+    "title": "Zest, 문자로 식당을 찾고 예약까지 해주는 AI 에이전트 공개",
+    "summary": "식당 추천 앱 Zest가 문자 메시지 안에서 동작하는 AI 에이전트를 내놨습니다. OpenTable, Resy, SevenRooms 같은 서비스를 통해 예약 가능 여부를 확인하고 예약까지 처리합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-08-arxiv-durable-misalignment-suppression",
+    "date": "2026-11-08",
+    "category": "research",
+    "org": "arXiv",
+    "title": "언어 모델의 잘못된 행동을 오래 억제하는 방법을 다룬 논문 공개",
+    "summary": "arXiv에 올라온 논문이 미세조정으로 생긴 비정렬 행동을 얼마나 오래 억제할 수 있는지 다뤘습니다. Qwen3-4B와 GPT-OSS-20B 모델에서 결과를 보고했으며, 아직 동료 심사를 거치지 않은 초록 기준의 정보입니다.",
+    "sources": [
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2611.05358"
+      }
+    ],
+    "terms": [
+      "미세조정"
+    ]
+  },
+  {
     "id": "2026-11-07-meta-acquires-conductor",
     "date": "2026-11-07",
     "category": "industry",
