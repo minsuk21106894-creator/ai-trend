@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-09-deepmind-rsa-1024-agents",
+    "date": "2026-11-09",
+    "category": "research",
+    "org": "Google DeepMind",
+    "title": "딥마인드, AI 에이전트로 구형 1024비트 RSA 암호의 약점 2가지 발견",
+    "summary": "구글 딥마인드가 11월 6일 연구자의 지시 아래 AI 에이전트가 구형 1024비트 RSA의 약점 2가지를 찾았다고 밝혔습니다. 서명 위조 관련 약점과 같은 크기의 키를 한꺼번에 소인수분해하는 방식이며, 2048비트 이상 키에는 영향이 없다고 설명했습니다.",
+    "sources": [
+      {
+        "name": "The Next Web 외 보도(DeepMind 발표 인용)",
+        "url": "https://runtimewire.com/article/google-deepmind-ai-agents-1024-bit-rsa-weaknesses"
+      },
+      {
+        "name": "Cryptobriefing",
+        "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/"
+      }
+    ],
+    "terms": [
+      "RSA",
+      "AI 에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-09-openai-biobasicsbench",
+    "date": "2026-11-09",
+    "category": "research",
+    "org": "OpenAI",
+    "title": "OpenAI, AI가 실험실 원본 데이터를 얼마나 읽는지 재는 'BioBasicsBench' 공개",
+    "summary": "OpenAI가 11월 6일 습식 실험 100개 과제로 AI 에이전트의 원본 실험 데이터 해석 능력을 평가하는 벤치마크를 공개했습니다. GPT-6 Astra는 평균 66.7%의 점수를 받았고, OpenAI는 높은 점수가 실제 실험실의 신뢰할 판단을 뜻하지는 않는다고 밝혔습니다.",
+    "sources": [
+      {
+        "name": "R&D World",
+        "url": "https://www.rdworldonline.com/openai-unveils-biobasicsbench-a-benchmark-to-gauge-how-well-ai-agents-read-raw-experimental-data-across-100-routine-wet-lab-tasks/"
+      }
+    ],
+    "terms": [
+      "벤치마크",
+      "AI 에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-09-visa-agentic-commerce-benchmark",
+    "date": "2026-11-09",
+    "category": "industry",
+    "org": "Visa",
+    "title": "비자 첫 AI 쇼핑 벤치마크, 22개 모델이 테스트의 42.8%에서 실패",
+    "summary": "비자가 11월 5일 12개 연구소의 AI 모델 22개를 쇼핑 과제 15개로 시험한 결과를 공개했습니다. 전체 실패율은 42.8%였고, 실패한 시도의 절반가량(54%)에서도 AI가 실제로 구매를 진행했습니다.",
+    "sources": [
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/visa-ai-shopping-benchmark-agentic-commerce-ai-models-fail"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/"
+      }
+    ],
+    "terms": [
+      "벤치마크",
+      "AI 에이전트"
+    ]
+  },
+  {
     "id": "2026-11-08-openai-11b-raise-1-25t-valuation",
     "date": "2026-11-08",
     "category": "industry",
