@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026-11-10-anthropic-claude-fable-mythos-5-2",
+    "date": "2026-11-10",
+    "category": "model",
+    "org": "Anthropic",
+    "title": "Anthropic, 최상위 모델 'Claude Fable 5.2'와 검증 기관 전용 'Mythos 5.2' 공개",
+    "summary": "Anthropic이 11월 9일 Claude Fable 5.2와 Mythos 5.2를 공개했습니다. 두 모델은 같은 기반 모델로, Opus 5.5보다 대부분의 평가에서 높은 성능을 보이고 이전 5.1 버전보다 출력이 최대 30% 빠르다고 합니다. Fable은 전체 이용자에게 제공되지만 Mythos는 승인된 검증 기관만 쓸 수 있습니다.",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "terms": [
+      "프런티어 모델",
+      "API"
+    ]
+  },
+  {
+    "id": "2026-11-10-nominal-series-c-3b",
+    "date": "2026-11-10",
+    "category": "industry",
+    "org": "Nominal",
+    "title": "하드웨어 엔지니어링용 AI 플랫폼 Nominal, 8개월 만에 기업가치 30억 달러로 3배 상승",
+    "summary": "하드웨어 엔지니어링용 AI 플랫폼 Nominal이 라이트스피드 주도로 2억 4천만 달러 규모 시리즈 C 투자를 유치했습니다. 기업가치는 30억 달러로, 8개월 만에 세 배가 됐다고 TechCrunch가 전했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-11-09-deepmind-rsa-1024-agents",
     "date": "2026-11-09",
     "category": "research",
