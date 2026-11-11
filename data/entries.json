@@ -1,5 +1,107 @@
 [
   {
+    "id": "2026-11-11-gemini-robotics-2-5",
+    "date": "2026-11-11",
+    "category": "model",
+    "org": "Google DeepMind",
+    "title": "구글 딥마인드, 로봇용 최상위 모델 'Gemini Robotics 2.5' 공개",
+    "summary": "딥마인드가 11월 10일 로봇을 위한 시각-언어-행동(VLA) 모델 Gemini Robotics 2.5를 공개했습니다. 200개 과제에서 이전 기준보다 성공률이 30~100% 높았고, 로봇 대상 탈옥 공격 방어율은 99.5%라고 밝혔습니다. 우선 로봇 분야 파트너사에 제공됩니다.",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+      }
+    ],
+    "terms": [
+      "VLA 모델",
+      "탈옥",
+      "벤치마크"
+    ]
+  },
+  {
+    "id": "2026-11-11-chatgpt-businesses-beta",
+    "date": "2026-11-11",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, 기업이 ChatGPT에 프로필과 고객응대 에이전트를 등록하는 'Businesses in ChatGPT' 베타 출시",
+    "summary": "OpenAI가 기업이 Business Hub에서 인증된 프로필을 만들고 조회·클릭 등 통계를 볼 수 있는 베타 기능을 내놨습니다. 미국의 일부 전자상거래·온라인 서비스 기업은 고객 응대용 에이전트도 게시할 수 있습니다. 출시 시점에는 무료입니다.",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-11-anthropic-claude-meetings",
+    "date": "2026-11-11",
+    "category": "product",
+    "org": "Anthropic",
+    "title": "Anthropic, 화상회의에 참여해 계획과 할 일로 정리해 주는 'Claude Meetings' 베타 출시",
+    "summary": "Anthropic이 Claude를 화상회의 참가자로 넣어 논의를 계획과 작업으로 바꿔 주는 Claude Meetings를 공개했습니다. Team·Enterprise 요금제에서 베타로 제공되며 출시 시점에는 Google Meet를 지원합니다. Claude Whiteboards와 Claude Sheets도 함께 소개됐습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-11-ny-raise-act-takes-effect",
+    "date": "2026-11-11",
+    "category": "policy",
+    "org": "뉴욕주",
+    "title": "뉴욕주 AI 안전법 RAISE Act 시행… OpenAI·Anthropic 등 2027년 1월 1일까지 등록해야",
+    "summary": "뉴욕주가 등록 포털을 열면서 RAISE Act이 본격 시행 단계에 들어갔습니다. 연매출 5억 달러 이상 대형 프런티어 개발사는 안전 체계를 공개하고, 중대 안전 사고를 72시간 안에 보고해야 합니다. 위반 시 과태료는 1회 최대 100만 달러, 이후 최대 300만 달러입니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+      }
+    ],
+    "terms": [
+      "프런티어 모델"
+    ]
+  },
+  {
+    "id": "2026-11-11-oura-counsel-health",
+    "date": "2026-11-11",
+    "category": "industry",
+    "org": "Oura",
+    "title": "오우라, AI 기반 1차 진료 스타트업 Counsel Health를 6억 2,500만 달러에 인수",
+    "summary": "스마트링 업체 오우라가 AI 기반 1차 진료 스타트업 Counsel Health를 6억 2,500만 달러에 인수하기로 했습니다. TechCrunch가 11월 10일 보도했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-11-psi-aaronson-ambainis",
+    "date": "2026-11-11",
+    "category": "research",
+    "org": "Physical Superintelligence",
+    "title": "PSI, 미공개 Anthropic 모델로 양자컴퓨팅 난제 '아론슨-암바이니스 추측' 해결 지원",
+    "summary": "스타트업 Physical Superintelligence(PSI)가 미공개 Anthropic 모델을 조기 이용해 양자컴퓨팅 분야의 아론슨-암바이니스 추측을 푸는 데 도움을 받았다고 TechCrunch가 전했습니다. 독립적인 검증 결과는 확인되지 않았습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+      }
+    ],
+    "terms": []
+  },
+  {
     "id": "2026-11-10-anthropic-claude-fable-mythos-5-2",
     "date": "2026-11-10",
     "category": "model",
