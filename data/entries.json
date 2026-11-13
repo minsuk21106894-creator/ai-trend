@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-13-nvidia-ceo-jensen-huang-resigns",
+    "date": "2026-11-13",
+    "category": "industry",
+    "org": "Nvidia",
+    "title": "엔비디아 젠슨 황, CEO와 이사직 즉시 사임… 콜레트 크레스 CFO가 임시 CEO 맡아",
+    "summary": "엔비디아는 SEC 제출 서류(8-K)를 통해 창업자 젠슨 황이 사장·CEO·이사직에서 즉시 물러났다고 밝혔습니다. 콜레트 크레스 CFO가 CFO 직을 유지한 채 임시 CEO를 맡고, 이사회는 내·외부 후보를 대상으로 후임 물색에 들어갑니다. 이사회 첫 의장에는 해비 존스가 선임되었습니다.",
+    "sources": [
+      {
+        "name": "Nvidia SEC Form 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-13-tsmc-invests-anthropic-openai",
+    "date": "2026-11-13",
+    "category": "industry",
+    "org": "TSMC",
+    "title": "TSMC 이사회, Anthropic·OpenAI에 각각 최대 5억 달러 투자 승인",
+    "summary": "TSMC 이사회는 11월 10일 Anthropic 상장(IPO) 공모가로 보통주를, OpenAI 우선주를 각각 최대 5억 달러까지 매입하는 안을 승인했습니다. 금액은 상한이며 실제 집행이 확정된 것은 아닙니다.",
+    "sources": [
+      {
+        "name": "TSMC Form 6-K (SEC)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm"
+      },
+      {
+        "name": "The Star",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
+      }
+    ],
+    "terms": [
+      "IPO"
+    ]
+  },
+  {
     "id": "2026-11-11-gemini-robotics-2-5",
     "date": "2026-11-11",
     "category": "model",
