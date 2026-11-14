@@ -1,5 +1,74 @@
 [
   {
+    "id": "2026-11-14-chatgpt-wallet-agent-shopping",
+    "date": "2026-11-14",
+    "category": "product",
+    "org": "OpenAI",
+    "title": "OpenAI, AI 에이전트가 상품을 골라 결제까지 해주는 'ChatGPT Wallet' 출시",
+    "summary": "OpenAI가 ChatGPT 에이전트가 상품을 고르고 결제까지 대신하는 Wallet 기능을 선보였습니다. 우선 일부 미국 ChatGPT Pro 구독자에게만 제공되며, 결제 때는 생체 인증 승인이 필요합니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-14-gemini-4-hydrogen",
+    "date": "2026-11-14",
+    "category": "model",
+    "org": "Google",
+    "title": "구글, 에이전트 작업용 빠르고 저렴한 모델 'Gemini 4 Hydrogen' 공개",
+    "summary": "구글이 에이전트 업무와 일상 작업에 맞춘 비용 효율형 모델 Gemini 4 Hydrogen을 공개했습니다. 입력 100만 토큰당 1.5달러, 출력 7.5달러이며 개발자·기업·일반 사용자 제품에 순차 적용됩니다.",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-14-langchain-3b-valuation",
+    "date": "2026-11-14",
+    "category": "industry",
+    "org": "LangChain",
+    "title": "AI 에이전트 개발 스타트업 LangChain, 3억 달러 투자 유치로 기업가치 30억 달러 달성",
+    "summary": "LangChain이 CapitalG 주도로 3억 달러 규모 시리즈 C 투자를 유치했습니다. 이를 통해 기업가치는 30억 달러로 평가받게 됐습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      }
+    ],
+    "terms": [
+      "AI 에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-14-china-models-blackwell-fingerprint",
+    "date": "2026-11-14",
+    "category": "research",
+    "org": "Unemployment Labs",
+    "title": "연구 결과 중국 대표 오픈 모델들, 수출 금지된 엔비디아 블랙웰 칩 학습 흔적 포착",
+    "summary": "전 OpenAI 연구원 윌 드퓨가 이끄는 비영리 연구단체가 딥시크·문샷AI 등 중국 오픈 모델의 가중치를 분석했습니다. 주요 모델에서 수출이 금지된 블랙웰 칩으로 학습한 흔적이 나왔다고 주장하지만, 전부 해당 칩으로 학습했는지나 수출법 위반 여부는 확인되지 않았습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      }
+    ],
+    "terms": [
+      "가중치",
+      "오픈 웨이트"
+    ]
+  },
+  {
     "id": "2026-11-13-nvidia-ceo-jensen-huang-resigns",
     "date": "2026-11-13",
     "category": "industry",
