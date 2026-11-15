@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-11-15-anthropic-ipo-price-range-placement",
+    "date": "2026-11-15",
+    "category": "industry",
+    "org": "Anthropic",
+    "title": "Anthropic, 공모가 70~78달러 제시… 엔비디아·구글 등 260억 달러 사모 배정도 함께 추진",
+    "summary": "Anthropic은 수정 신고서에서 8억 2,500만 주를 주당 70~78달러에 팔아 최대 644억 달러를 조달하겠다고 밝혔습니다. 엔비디아·구글·AMD·마이크로소프트 등은 IPO 종료를 조건으로 총 260억 달러어치 주식을 별도로 사기로 했습니다. 나스닥 상장일은 11월 19일로 보도됐으나 확정은 아닙니다.",
+    "sources": [
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
+      },
+      {
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619"
+      }
+    ],
+    "terms": [
+      "IPO"
+    ]
+  },
+  {
     "id": "2026-11-14-chatgpt-wallet-agent-shopping",
     "date": "2026-11-14",
     "category": "product",
