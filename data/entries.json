@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-11-20-anthropic-nasdaq-debut",
+    "date": "2026-11-20",
+    "category": "industry",
+    "org": "Anthropic",
+    "title": "Anthropic, 주당 83달러로 나스닥 상장… 역대 최대 IPO 기록",
+    "summary": "Anthropic이 11월 19일 나스닥에 상장했습니다. 공모가는 예상 범위를 웃도는 주당 83달러였고, TechCrunch는 스페이스X의 기록을 넘어선 역대 최대 IPO라고 보도했습니다. 다리오 아모데이 CEO는 개장 행사에서 AI 개발 속도를 조절하겠다는 약속을 다시 밝혔습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+      }
+    ],
+    "terms": [
+      "IPO"
+    ]
+  },
+  {
+    "id": "2026-11-20-gemini-mac-computer-use",
+    "date": "2026-11-20",
+    "category": "product",
+    "org": "Google",
+    "title": "구글, Gemini 맥 앱에 사용자 대신 맥을 조작하는 컴퓨터 사용 기능 추가",
+    "summary": "구글이 macOS용 Gemini 앱에 컴퓨터 사용 기능을 넣어, 어시스턴트가 맥의 기본 앱을 조작하고 백그라운드에서 웹사이트를 탐색하며 작업을 대신하게 했습니다. 처음에는 미국에서 영어로만, 유료 Google AI 구독자에게 제공됩니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+      }
+    ],
+    "terms": [
+      "컴퓨터 사용",
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-20-meta-muse-privacy-report",
+    "date": "2026-11-20",
+    "category": "product",
+    "org": "Meta",
+    "title": "Meta AI 에이전트 'Muse', 대화가 뒤섞여 개인정보 노출 우려 제기",
+    "summary": "로이터 보도를 인용한 TechCrunch에 따르면 Meta 직원들이 AI 에이전트 Muse가 서로 다른 계정의 대화를 섞어 개인정보를 노출할 수 있다고 우려했습니다. Meta는 직원 테스트도 제품 개발의 일부라고 답했습니다.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+      }
+    ],
+    "terms": [
+      "에이전트"
+    ]
+  },
+  {
+    "id": "2026-11-20-house-safe-ai-act-teased",
+    "date": "2026-11-20",
+    "category": "policy",
+    "org": "미국 하원",
+    "title": "미 하원 초당적 의원들, 연방 최소 안전 기준 담은 'SAFE AI Act' 공개 예고",
+    "summary": "블룸버그에 따르면 초당적 하원 의원 3명이 AI 기업에 최소 연방 안전 기준 준수와 안전 사고 공개를 요구하는 법안을 11월 19일 소개했습니다. 법안 이름은 SAFE AI Act이며 조문은 아직 공개되지 않았습니다. 같은 날 트럼프 대통령은 과도한 규제가 AI 산업을 위축시킬 수 있다고 경고했습니다.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/ai-safety-framework-bill-teased-by-bipartisan-house-lawmakers"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-warns-against-regulations-that-would-stifle-ai-industry"
+      }
+    ],
+    "terms": []
+  },
+  {
+    "id": "2026-11-20-arxiv-agent-tool-call-fault-injection",
+    "date": "2026-11-20",
+    "category": "research",
+    "title": "arXiv 논문, 도구 호출이 중단돼도 외부 시스템은 이미 바뀌었을 수 있다는 AI 에이전트 결함 주입 실험 공개",
+    "summary": "arXiv에 올라온 결함 주입 연구는 언어 모델 에이전트의 도구 호출이 중간에 끊겨도 해당 작업이 이미 외부 시스템을 바꿨을 수 있고 그 사실이 확인되지 않을 수 있음을 보였습니다. 에이전트의 안정적인 운영에서 중단 처리가 중요하다는 점을 시사합니다.",
+    "sources": [
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2611.23353"
+      }
+    ],
+    "terms": [
+      "에이전트",
+      "결함 주입"
+    ]
+  },
+  {
     "id": "2026-11-15-anthropic-ipo-price-range-placement",
     "date": "2026-11-15",
     "category": "industry",
